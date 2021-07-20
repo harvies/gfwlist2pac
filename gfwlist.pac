@@ -3,7 +3,7 @@
  * GFWList Last-Modified: 2021-07-06 21:48:56
  */
 
-var proxy = 'SOCKS5 127.0.0.1:1080';
+var proxy = 'SOCKS5 router.kikera.top:7890';
 var rules = [
     [
         ["kikera.org"],
